@@ -10,7 +10,7 @@ sem delimitação clara de escopo. Projetos com escopo mal definido terão pontu
 reduzida nas tarefas seguintes.
 
 1.1 a aplicação
-a aplicação será de um site de uma biblioteca de livros academicos, resolve o rpoblema de livros pouco acessíveis para o publico de graduação  
+a aplicação será de um site de uma biblioteca de livros academicos, resolve o problema de livros pouco acessíveis para o publico de graduação  
 os principais usuários são estudantes
 todos os pontos do CRUD são igualmente importantes
 no css foi usado o tailwind para poupar tempo de fazer o css na mão
