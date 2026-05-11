@@ -34,3 +34,5 @@ emprestimos:
 }
 
 1.3 codigo disponivel no git
+
+obs: a interação com IA é o Google Gemini.html no git
